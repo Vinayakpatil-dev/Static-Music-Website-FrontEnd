@@ -1,4 +1,4 @@
-LINK: https://spotify-clone-frontend-vsp.netlify.app/
+LINK: https://static-music-website-frontend-vsp.netlify.app/
 
 Developed a responsive frontend inspired from Spotify using HTML and CSS. Responsiveness achieved using CSS media-queries and flexbox properties. Improved understanding of UI/UX principles and browser compatibility. Hosted the project using Netlify.
 
